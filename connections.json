@@ -1,0 +1,22 @@
+[
+    {   "type": "local",
+        "name": "meu banco mongo",
+        "path": "/home/luciano/mongodb/db",
+        "hostname": "localhost",
+        "port": "27017",
+        "user": "Luciano Guedes",
+        "password": "",
+        "ssl": "",
+        "auth": ""
+    },
+    {   "type": "remote",
+        "name": "meu banco mongo 2",
+        "path": "",
+        "hostname": "",
+        "port": "27017",
+        "user": "Luciano Guedes",
+        "password": "",
+        "ssl": "",
+        "auth": ""
+    }
+]

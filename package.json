@@ -1,0 +1,19 @@
+{
+  "name": "mongo-launch",
+  "version": "1.0.0",
+  "description": "Easily launch and connect with any mongo database available on your system from here",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Luciano Brito",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.3.1"
+  },
+  "dependencies": {
+    "electron-store": "^8.0.1",
+    "node-notifier": "^10.0.0",
+    "path": "^0.12.7"
+  }
+}

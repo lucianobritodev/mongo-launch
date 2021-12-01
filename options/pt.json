@@ -1,0 +1,10 @@
+{
+    "add": "Adicionar nova conexão ...",
+    "compass": "Abrir o MongoDB Compass",
+    "start": "Iniciar conexão",
+    "finish": "Encerrar conexão",
+    "local-stored": "Abrir local de persistência",
+    "edit": "Editar conexão",
+    "remove": "Remover conexão",
+    "close": "Fechar o Mongod-Launch"
+}
