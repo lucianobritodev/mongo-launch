@@ -1,11 +1,11 @@
 # Mongo Launch
-[Project Resume]
 
-![Screenshot](https://user-images.githubusercontent.com/29457352/60412908-62bf6700-9ba9-11e9-9b15-c24b854f3b23.png)
+Easily launch and connect with any mongo database available on your system directly from the tray.
+
 
 ## Description
 
-[Project Description]
+Mongo-Launch is a simple application for starting a databases MongoDB locals and remote directly tray from your system.
 
 
 ## Contributors

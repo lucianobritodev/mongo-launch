@@ -1,7 +1,7 @@
 {
   "name": "mongo-launch",
   "version": "1.0.0",
-  "description": "Easily launch and connect with any mongo database available on your system from here",
+  "description": "Easily launch and connect with any mongo database available on your system by here",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
